@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WallServiceTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-09-25T17:19:25" hostname="ACER-ASPIRE-A31" time="0.344">
+  <properties/>
+  <testcase name="updateUnExisting" classname="WallServiceTest" time="0.322"/>
+  <testcase name="report_comment_should_report" classname="WallServiceTest" time="0.001"/>
+  <testcase name="create_comment_should_create" classname="WallServiceTest" time="0.001"/>
+  <testcase name="updateExisting" classname="WallServiceTest" time="0.001"/>
+  <testcase name="add_check_id" classname="WallServiceTest" time="0.001"/>
+  <testcase name="report_comment_should_throw_CommentNotFoundException" classname="WallServiceTest" time="0.001"/>
+  <testcase name="report_comment_should_throw_ReasonNotFoundException2" classname="WallServiceTest" time="0.002"/>
+  <testcase name="report_comment_should_throw_ReasonNotFoundException3" classname="WallServiceTest" time="0.002"/>
+  <testcase name="report_comment_should_throw_ReasonNotFoundException" classname="WallServiceTest" time="0.001"/>
+  <testcase name="create_comment_should_throw" classname="WallServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
